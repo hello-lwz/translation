@@ -1,4 +1,4 @@
-＃translation；
+
 youdao 为 有道翻译提供的官方demo；
 
 youdao3 为 通过post请求获取结果；
