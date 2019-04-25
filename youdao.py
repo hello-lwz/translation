@@ -11,8 +11,8 @@ import random
 class translation:
     @classmethod
     def translate(self, q):
-        appKey = '6dc851c6799eee68'
-        secretKey = 'mTbyN2gCoX7ofprJS0ducuK5tqdxN62g'
+        appKey = 'xxx'
+        secretKey = 'xxx'
         httpClient = None
         myurl = '/api'
         q = q
