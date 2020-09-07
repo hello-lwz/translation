@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#pip install MySQL-python
 import MySQLdb as mdb
 import json
 import time
